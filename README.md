@@ -1,6 +1,6 @@
 # **Bienvenu dans mon environnement Github 👋**
 
-## ⚔️ **Qui suis-je ?**
+## **Qui suis-je ?**
 
 Je suis un développeur Full Stack qui est passionné des technologies et des univers fantastiques. 
 
@@ -41,11 +41,14 @@ Je suis un développeur Full Stack qui est passionné des technologies et des un
 
 PL-200 Microsoft Power Platform Functional Consultant
 
-### 🛠️ Projets en cours
+### 🛠️ Projets Terminé
 
-#### 📘 AccessHub
+#### ⚙️ AuthentificationBase-Boilerplate
+Boilerplate pour débuter mes prochains projet avec un système d'authentification JWT et Refresh token
+🔗 [Répertoire Git](https://github.com/Alex-Tessier/AuthentificationBase-Boilerplate) 
+- Date du projet: Août 2025
+- Défis Technique: Mettre en place un système d'instance pour gérer les Token et les Refresh token de l'utilisateur connecter. Gérer la validation de l'expiration d'un token.
+- Technologies Utilisé : ![React](https://img.shields.io/badge/React-black%20?style=for-the-badge&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss) ![.Net](https://img.shields.io/badge/.NET-9179E4?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🛠️ Projets à venir 
 
-#### 📘 Portfolio
 
