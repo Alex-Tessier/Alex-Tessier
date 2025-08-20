@@ -45,7 +45,9 @@ PL-200 Microsoft Power Platform Functional Consultant
 
 #### ⚙️ AuthentificationBase-Boilerplate
 Boilerplate pour débuter mes prochains projet avec un système d'authentification JWT et Refresh token
-🔗 [Répertoire Git](https://github.com/Alex-Tessier/AuthentificationBase-Boilerplate) 
+<br>🔗 [Répertoire Git](https://github.com/Alex-Tessier/AuthentificationBase-Boilerplate) 
+
+
 - Date du projet: Août 2025
 - Défis Technique: Mettre en place un système d'instance pour gérer les Token et les Refresh token de l'utilisateur connecter. Gérer la validation de l'expiration d'un token.
 - Technologies Utilisé : ![React](https://img.shields.io/badge/React-black%20?style=for-the-badge&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss) ![.Net](https://img.shields.io/badge/.NET-9179E4?style=for-the-badge&logo=.net&logoColor=white)
